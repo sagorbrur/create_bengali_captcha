@@ -7,10 +7,15 @@ This repo help you to generate bengali captcha
 # Dependencies
 
 * `pip install captcha`
+* PIL
 
 # Generate
 
 ```python captcha_gen.py```
+
+# Generate GT(ground truth Text)
+
+`python creating_textfile_from_captcha_name.py`
 
 # References
 
